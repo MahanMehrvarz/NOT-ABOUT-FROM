@@ -14,9 +14,6 @@ try:
     #TSO.set_geocode(52.5233,13.4127,10,'km')
                    
 
-
-    
-
     # it's about time to create a TwitterSearch object with our secret tokens
     TS = TwitterSearch(
         consumer_key = '***',
